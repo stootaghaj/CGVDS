@@ -9,10 +9,10 @@ The dataset has four folders as follows:
 
 1.	Subject Ratings: subjective ratings together with additional pre/post-game ratings. Raw subjective rating will be realized upon acceptance of the paper. 
 
-2.	MOS information: The Mean Opinion Score (MOS) information is provided together with some plots lined to MOS ratings. 
+2.	MOS information: The Mean Opinion Score (MOS) information is provided together with some plots lined to MOS ratings. Below you can find the abbreviations of scales in the shared excel file. 
    - Video Quality in 7-point continues scale (VQ_EC), Video Fragmentation in 7-point continues scale (VF_EC),	Video Unclearness in 7-point continues scale (VU_EC),	Video Discontinuety in 7-point continues scale (VD_EC),	Acceptance of condition in 7-point continues scale (after averaging binary individuale values and scaled it up) (AC_EC), 	Video Quality in 5-point continues scale (VQ_ACR),	Video Fragmentation in 7-point continues scale (VF_ACR),	Video Unclearness in 7-point continues scale (VU_ACR),	Video Discontinuety in 7-point continues scale (VD_ACR),	Acceptance of condition in 7-point continues scale (after averaging binary individuale values and scaled it up) (AC_ACR)
 
-3.	Plots and Metrics: the results of objective metrics are provided in frame level as well video level together with some scatter plots of each metric and subjective results.
+3.	Plots and Metrics: the results of objective metrics are provided in frame level as well video level together with some scatter plots of each metric and subjective results. The plot and frame-level information of metrics will be uploaded in few days. 
 
 4.	Materials: the raw reference sequence in YUV format together with encoded videos in mp4 format at spatial resolutions are provided in this folder.
 
