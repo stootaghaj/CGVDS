@@ -3,6 +3,8 @@ Cloud Gaming Video Dataset
  
 
 Due to review process of the paper, we only provide the dataset for two video sequences out fifteen. The encoded videos together with raw recorded sequences are included in the dataset. 
+Link: https://drive.google.com/open?id=1wfiuShlLcbpjMkQ3ZkIlJAYcZeEwlifl 
+
 The dataset has four folders as follows:
 
 •	Subject Ratings: subjective ratings together with additional pre/post-game ratings. Raw subjective rating will be realized upon acceptance of the paper. 
