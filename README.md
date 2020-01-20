@@ -2,7 +2,7 @@
 Cloud Gaming Video Dataset
  
 
-Due to review process of the paper, we only provide the dataset for two video sequences out fifteen. The encoded videos together with raw recorded sequences are included in the dataset. 
+Due to review process of the paper, we only provide the dataset for two video sequences out of fifteen. The encoded videos together with raw recorded sequences are included in the dataset. 
 Link: https://drive.google.com/open?id=1wfiuShlLcbpjMkQ3ZkIlJAYcZeEwlifl 
 
 The dataset has four folders as follows:
