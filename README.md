@@ -20,7 +20,7 @@ In order to encode the video we used the following command on ffmpeg:
 
 ffmpeg -y -r ${framerate} -s:v 1920x1080 -i ${file} -r ${framerate} -c:v h264_nvenc -rc cbr_ld_hq -preset llhq -zerolatency 1 -forced-idr 1 -pixel_format yuv420p -b:v $bitrate$'k' -minrate $bitrate$'k' -maxrate $bitrate$'k' -bufsize $bitrate$'k' ${file%.*}_${encodingresolution}_${framerate}_${bitrate}_${codec}.mp4
 
-In order to rescale the videos to 1080p we used bilinear method tas follows:
+In order to rescale the videos to 1080p we used bilinear method as follows:
 
 ffmpeg -y -i ${file%.*}.mp4 -filter:v scale=1920:1080 -sws_flags "bilinear" -vcodec rawvideo -pix_fmt yuv420p -f rawvideo PATH/${file%.*}.yuv
 
